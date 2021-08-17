@@ -1,0 +1,39 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Fortune Ferret Name",
+            "value": "Original Fortune Ferret Bear"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Legendary"
+        },
+        {
+            "trait_type": "Power",
+            "value": "Infatuate"
+        },
+        {
+            "trait_type": "Coolness",
+            "value": "10/10"
+        }
+        {
+            "trait_type": "Strength",
+            "value": "10/10"
+        },
+        {
+            "trait_type": "Defense",
+            "value": "10/10"
+        },
+        {
+            "trait_type": "Magic",
+            "value": "10/10"
+        },
+        {
+            "trait_type": "Speed",
+            "value": "10/10"
+        }
+    ],
+    "description": "The world's most adorable and sensitive pup.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmNWWwhywhJ875frArA1QAs257SEia2cFzZSacAw8qeRjs",
+    "name": "Ramses"
+}
