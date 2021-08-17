@@ -1,0 +1,17 @@
+{
+  "name": "my-nft",
+  "version": "1.0.0",
+  "description": "First NFT from scratch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Senku741",
+  "license": "ISC",
+  "devDependencies": {
+    "hardhat": "^2.6.0"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.1.0-solc-0.7"
+  }
+}
